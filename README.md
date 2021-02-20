@@ -32,14 +32,11 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## Mock-Up
-
-**Note**: This layout is designed for "desktop", so you may notice that some of the elements don't look like the Mock-Up when viewed at a resolution smaller than 768px. In future lessons, you will learn how to make elements "responsive" so that your web application is optimized for any screen size.
-
-The following image shows the web application's appearance and functionality:
-
-![Final result of webpage](./127.0.0.1_5501_Develop_index.html.png)
-
 ## Result
 
 * Updating the code in the HTML and the CSS files, I was able to use simplification and semantic code without affecting the existing webpage or it's functionality.
+
+Below is what the webpage looks like after my changes. 
+![Final result of webpage](./Assets/127.0.0.1_5501_Develop_index.html.png)
+
+There are no differences between the before and after my changes on the website. 
