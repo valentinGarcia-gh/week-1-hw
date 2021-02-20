@@ -2,6 +2,8 @@
 
 ## Installation
 Link to working site 
+<https://valentingarcia-gh.github.io/week-1-hw/>
+Link to repository
 <https://github.com/valentinGarcia-gh/week-1-hw>
 
 ## Description
@@ -37,6 +39,6 @@ THEN I find a concise, descriptive title
 * Updating the code in the HTML and the CSS files, I was able to use simplification and semantic code without affecting the existing webpage or it's functionality.
 
 Below is what the webpage looks like after my changes. 
-![Final result of webpage](./Assets/127.0.0.1_5501_Develop_index.html.png)
+![Final result of webpage](./assets/images/127.0.0.1_5501_Develop_index.html.png)
 
 There are no differences between the before and after my changes on the website. 
